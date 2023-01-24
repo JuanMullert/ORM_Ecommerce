@@ -4,6 +4,11 @@
 
 The task was to build the back end for an e-commerce site by modifying starter code. I configured a working Express.js API to use Sequelize to interact with a MySQL database.
 
+## Installation
+```md
+npm run seed
+npm run start
+```
 ## User Story
 
 ```md
@@ -28,3 +33,6 @@ WHEN I test API POST, PUT, and DELETE routes in Insomnia
 THEN I am able to successfully create, update, and delete data in my database
 ```
 
+## Walktrought Video
+
+[video](https://drive.google.com/file/d/1uCTGidmChPfGSDsjCrh8lrwztKsTzVVE/view?usp=sharing)
